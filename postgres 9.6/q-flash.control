@@ -1,0 +1,5 @@
+# q-flash module
+comment = 'Query Flash'
+default_version = '0.0.1'
+relocatable = true
+module_pathname = '$libdir/q-flash'
